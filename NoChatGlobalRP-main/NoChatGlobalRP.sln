@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NoChatGlobalRP", "NoChatGlobalRP\NoChatGlobalRP.csproj", "{4CF33579-56E1-4C61-A63A-B3DC1F5FDE26}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4CF33579-56E1-4C61-A63A-B3DC1F5FDE26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CF33579-56E1-4C61-A63A-B3DC1F5FDE26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CF33579-56E1-4C61-A63A-B3DC1F5FDE26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CF33579-56E1-4C61-A63A-B3DC1F5FDE26}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D28B28A-0334-4770-A97F-77DB74C5541D}
+	EndGlobalSection
+EndGlobal
